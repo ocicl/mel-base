@@ -1,0 +1,10 @@
+* mel-base
+
+A versatile mail library for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/neonsquare/mel-base.git   |
+| commit  | 7edc8fb  |
+| systems | mel-base |
+|---------+-------------------------------------------|
+
